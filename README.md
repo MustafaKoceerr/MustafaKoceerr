@@ -12,7 +12,7 @@
 <br><br>
 
 <p align="left">
-<a href="https://medium.com/@mustafakoceerr" target="blank" style="margin-right: 10px;">
+<a href="https://medium.com/@mustafakoceerr" target="blank" style="margin-right: 40px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafakoceerr" height="80" width="80" />
 </a>
 <a href="https://stackoverflow.com/users/26555025" target="blank">
