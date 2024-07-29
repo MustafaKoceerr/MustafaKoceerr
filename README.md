@@ -15,9 +15,9 @@
 <br><br>
 
 
-<p align="center">
 
 # 💻 Languages and Tools:
+<p align="center">
 
 | Kotlin | Java | Android Studio | Git | GitHub | Figma | Android | Firebase | Linux |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
