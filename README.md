@@ -6,6 +6,7 @@
 
 <br><br>
 #### <span style="display: inline-flex; align-items: center;"><img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30"> **Kotlin Mobil Developer - Software Engineer**</span>
+#### <span style="line-height: 30px;"><img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30" style="vertical-align: middle;"> **Kotlin Mobil Developer - Software Engineer**</span>
 
 
 <p align="left">
