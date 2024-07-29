@@ -5,10 +5,9 @@
 <h3 align="center">I am a JR Android Developer with a passion for Kotlin.</h3>
 
 <br><br>
-#### <img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30" style="vertical-align: middle;"> **Kotlin Mobil Developer - Software Engineer**
+#### <span style="vertical-align: middle;">**Kotlin Mobil Developer - Software Engineer**</span><br><img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30" style="vertical-align: middle;">
 
 
-#### (https://github.com/MustafaKoceerr/MustafaKoceerr/blob/main/android.png) **Kotlin Mobil Developer - Software Engineer**
 
 
 <p align="left">
