@@ -7,6 +7,7 @@
 <br><br>
 #### <img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30" style="vertical-align: middle;"> **Kotlin Mobil Developer - Software Engineer**
 
+#### <img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30" style="vertical-align: text-bottom;"> **Kotlin Mobil Developer - Software Engineer**
 
 
 
