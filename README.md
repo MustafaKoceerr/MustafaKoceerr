@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">I am a JR Android Developer with a passion for Kotlin.</h3>
-# 💻 Languages and Tools:
+
 
 
 <p align="left">
@@ -12,6 +12,8 @@
 
 
 
+
+# 💻 Languages and Tools:
 
 | Kotlin | Java | Android Studio | Git | GitHub | Figma |
 | :-: | :-: | :-: | :-: | :-: | :-: |
