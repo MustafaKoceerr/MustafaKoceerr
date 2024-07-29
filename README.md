@@ -25,12 +25,13 @@
 
 
 
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="android.png">
- <source media="(prefers-color-scheme: light)" srcset="android.png">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="android.png">
+    <source media="(prefers-color-scheme: light)" srcset="android.png">
+    <img alt="Android Logo" src="android.png" width="200" height="200">
+  </picture>
+</p>
 
 
 <!--
