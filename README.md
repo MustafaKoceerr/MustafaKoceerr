@@ -6,8 +6,8 @@
 # 💻 Languages and Tools:
 
 
-<p align="center">
-<a href="https://medium.com/@mustafakoceerr" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafakoceerr" height="50" width="50" /></a>
+<p align="left">
+<a href="https://medium.com/@mustafakoceerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafakoceerr" height="50" width="50" /></a>
 </p>
 
 
