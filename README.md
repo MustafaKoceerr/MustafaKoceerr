@@ -5,12 +5,7 @@
 <h3 align="center">I am a JR Android Developer with a passion for Kotlin.</h3>
 
 <br><br>
-#### <img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30" style="vertical-align: baseline;"> <span style="vertical-align: baseline;">**Kotlin Mobil Developer - Software Engineer**</span>
-#### <img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30" style="vertical-align: text-bottom;"> <span style="vertical-align: text-bottom;">**Kotlin Mobil Developer - Software Engineer**</span>
-#### <span style="line-height: 30px;"><img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30"> **Kotlin Mobil Developer - Software Engineer**</span>
-#### <span style="display: inline-flex; align-items: center;"><img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30"> **Kotlin Mobil Developer - Software Engineer**</span>
-
-
+#### <img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30" style="vertical-align: middle;"> <span style="vertical-align: middle;">**Kotlin Mobil Developer - Software Engineer**</span>
 
 
 <p align="left">
