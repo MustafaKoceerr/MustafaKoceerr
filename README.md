@@ -4,12 +4,15 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">I am a JR Android Developer with a passion for Kotlin.</h3>
 
+<br><br>
 
 
 <p align="left">
 <a href="https://medium.com/@mustafakoceerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafakoceerr" height="50" width="50" /></a>
 </p>
 
+<br><br>
+<br><br>
 
 
 
