@@ -24,8 +24,8 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="guncellemeBen10.webp">
- <source media="(prefers-color-scheme: light)" srcset="guncellemeBen10.webp">
+ <source media="(prefers-color-scheme: dark)" srcset="android.png">
+ <source media="(prefers-color-scheme: light)" srcset="android.png">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
