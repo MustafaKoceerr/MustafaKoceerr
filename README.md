@@ -5,7 +5,7 @@
 <h3 align="center">I am a JR Android Developer with a passion for Kotlin.</h3>
 
 <br><br>
-####  (https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico) **Kotlin Mobil Developer - Software Engineer**
+#### <img src="https://raw.githubusercontent.com/MustafaKoceerr/MustafaKoceerr/main/android_smart_phone.ico" alt="android" width="30" height="30" style="vertical-align: middle;"> **Kotlin Mobil Developer - Software Engineer**
 
 
 #### (https://github.com/MustafaKoceerr/MustafaKoceerr/blob/main/android.png) **Kotlin Mobil Developer - Software Engineer**
