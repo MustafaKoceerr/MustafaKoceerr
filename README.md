@@ -13,10 +13,8 @@
 
 <p align="left">
 <a href="https://medium.com/@mustafakoceerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafakoceerr" height="80" width="80" /></a>
-<a href="https://stackoverflow.com/users/26555025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26555025" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26555025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26555025" height="80" width="80" /></a>
 </p>
-
-
 
 <br><br>
 
