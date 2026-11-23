@@ -1,23 +1,31 @@
-## Hi, I'm Mustafa 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/kocerlabs-dark.svg">
+    <img src="assets/kocerlabs.svg" alt="KocerLabs" width="320">
+  </picture>
+</p>
 
-Product Engineer building Android and iOS apps and the backends behind them, end to end.
+<h2 align="center">Hi, I'm Mustafa 👋</h2>
 
-- Shipping Kotlin Multiplatform and native Android apps to Google Play
-- Writing the backends too: Cloudflare Workers, Fastify, PostgreSQL
-- Running my own self-hosted deployment platform (Coolify, Docker, Cloudflare Tunnel)
+<p align="center">Product Engineer building Android and iOS apps and the backends behind them, end to end.</p>
 
-### Projects
+- 📱 Shipping Kotlin Multiplatform and native Android apps to Google Play
+- ⚙️ Writing the backends too: Cloudflare Workers, Fastify, PostgreSQL
+- 🏠 Running my own self-hosted deployment platform (Coolify, Docker, Cloudflare Tunnel)
+- 🐏 Building my apps under **KocerLabs**
 
-- **[JustRelax](https://github.com/MustafaKoceerr/JustRelax)**: relaxing sounds app for Android and iOS from a shared KMP core. Live on Google Play.
-- **TilePDF**: PDF reader and editor on a custom PDFium build (C++/JNI) with a tile renderer. Closed beta.
-- **GalleryCleaner**: on-device AI that finds similar, blurry and screenshot photos. Closed beta.
-- **TileNotes**: notes app with my own sync backend. In progress.
-- **[compose-theme-manager](https://github.com/MustafaKoceerr/compose-theme-manager)** and **[compose-language-manager](https://github.com/MustafaKoceerr/compose-language-manager)**: small Compose libraries on JitPack.
+### 🚀 Projects
 
-### Stack
+- 🌙 **[JustRelax](https://github.com/MustafaKoceerr/JustRelax)**: relaxing sounds app for Android and iOS from a shared KMP core. Live on Google Play.
+- 📄 **TilePDF**: PDF reader and editor on a custom PDFium build (C++/JNI) with a tile renderer. Closed beta.
+- 🖼️ **GalleryCleaner**: on-device AI that finds similar, blurry and screenshot photos. Closed beta.
+- 📝 **TileNotes**: notes app with my own sync backend. In progress.
+- 🧩 **[compose-theme-manager](https://github.com/MustafaKoceerr/compose-theme-manager)** and **[compose-language-manager](https://github.com/MustafaKoceerr/compose-language-manager)**: small Compose libraries on JitPack.
+
+### 🛠️ Stack
 
 Kotlin · Jetpack Compose · Kotlin Multiplatform · Swift/SwiftUI · TypeScript · Cloudflare Workers · Fastify · PostgreSQL · Docker · C++/JNI
 
-### Links
+### 📫 Links
 
-[mustafakoceerr.com](https://mustafakoceerr.com) · [LinkedIn](https://www.linkedin.com/in/mustafakoceerr/) · [Medium](https://medium.com/@mustafakoceerr)
+🌐 [mustafakoceerr.com](https://mustafakoceerr.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mustafakoceerr/) · ✍️ [Medium](https://medium.com/@mustafakoceerr)
